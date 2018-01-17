@@ -1,0 +1,411 @@
+body {
+
+	background-color: #f2f2f2;
+	padding: 75px;
+	font-size: 14px;
+	width: 794px;
+
+}
+.section1 {
+	background-color: #FFF;
+	display: block;
+	width: 794px;
+	height: auto;
+	position: absolute;
+	text-align: right;
+	
+	padding-top:75px: 
+	margin-bottom: 20px;
+}
+.wrapper {
+	max-width:794px;
+	margin: 0 auto;
+	padding-left: 95px;
+	padding-right: 57px;
+	padding-top:75px: 
+}
+.top_header {
+	display: block;
+	width: 642px;
+	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+	font-size: 14px;
+	line-height: 1;
+}
+.top {
+	width: 794px;
+	height:74px;
+	background-color: #FFF;
+}
+header {
+	position: absolute;
+	left: 0;
+	right: 0;
+
+}
+
+.header-wrap {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+
+/*  section2 */
+
+.section2 {
+	background-color: #FFF;
+	width: 794px;
+	text-align: center;
+	
+	padding-top: 48px;
+}
+.protocol {
+	font-weight:bold;
+	display: block;
+	width: 642px;
+	height: auto;
+	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+	font-size: 14px;
+	line-height: 1.2;
+}
+.info {
+	display: flex;
+	width: 794px;
+	height: auto;
+	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+	font-size: 14px;
+	line-height: 1.2;
+	padding-left: 95px;
+	padding-right: 57px;
+}
+.city{
+	width: 321px;
+	height: auto;
+	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+	font-size: 14px;
+	text-align: left;
+
+}
+.year{
+	width: 321px;
+	height: auto;
+	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+	font-size: 14px;
+	line-height: 1.5;
+	text-align: right;
+
+}
+
+/*  section3 */ 
+
+.section3 {
+	background-color: #FFF;
+	width: 794px;
+	text-align: left;
+	
+	padding: 1px 0;
+}
+.title {
+	font-weight:bold;
+	display: block;
+	width: 642px;
+	height: auto;
+	font-family: 'Arial', serif; /* Шрифт с засечками */
+	font-size: 14px;
+	line-height: 1.2;
+}
+.table1 {
+
+}
+
+#maket {
+	border: 1px solid #000; 
+    width: 100%; /* Ширина всей таблицы в процентах */
+    vertical-align: top; /* Вертикальное выравнивание в ячейках */
+    padding-left: 7px;
+    font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+   }
+   #leftcol {
+   	padding-left: 7px;
+   	border: 1px solid  #000; 
+   	text-align: left;
+   	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+    width: 440px; /* Ширина левой колонки в пикселах */
+   }
+   #rightcol {
+   	border: 1px solid #000; 
+   	text-align: center;
+   	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+    width: 155px; /* Ширина левой колонки в пикселах */
+    font-weight:bold;
+    font-size: 12px;
+   }
+   
+   
+   /*  section4 */ 
+
+.section4 {
+	background-color: #FFF;
+	width: 794px;
+	text-align: left;
+	
+	padding: 1px 0;
+}
+.text {
+	display: block;
+	width: 642px;
+	height: auto;
+	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+	font-size: 16px;
+	line-height: 1.2;
+
+}
+
+.text-table{
+	display: flex;
+	width: 100%;
+}
+.text-right {
+	width: 590px;
+	height: auto;
+	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+	font-size: 10px;
+	line-height: 1.2;
+	text-align: justify;
+	padding: 1px 0;
+}
+.text-right1 {
+	width: 590px;
+	height: auto;
+	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+	font-size: 14px;
+	line-height: 1.2;
+	text-align: justify;
+	padding: 1px 0;
+}
+.textlit {
+	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+	font-size: 10px;
+	line-height: 1.2;
+}
+.text-left {
+width: 140px;
+}
+.text-two{
+	width: 794px;
+	height: auto;
+	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+	font-size: 13px;
+	line-height: 1.2;
+	padding-left: 95px;
+	padding-right: 57px;
+	text-align: justify;
+}
+
+
+   /*  section5 */ 
+.section5 {
+	background-color: #FFF;
+	width: 794px;
+	text-align: center;
+}
+.top-text {
+
+padding-bottom: 302px;
+	text-align:left;
+}
+
+	
+}
+ h1 {
+    font-family: 'Times New Roman', Times, serif; /* Гарнитура текста */ 
+    font-size: 16px; /* Размер шрифта в процентах */ 
+   } 
+
+    h2 {
+    font-family: 'Times New Roman', Times, serif; /* Гарнитура текста */ 
+    font-size: 12px; /* Размер шрифта в процентах */ 
+   }
+ 
+#maket2 {
+	padding-left: 7px;
+	border: 1px solid #000; 
+    width: 100%; /* Ширина всей таблицы в процентах */
+    text-align: center;
+   	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+    font-size: 12px;
+}
+
+
+#col1 {
+	padding-left: 7px;
+   	border: 1px solid #000; 
+   	text-align: left;
+   	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+ 	width: 192px;
+   }
+#col2 {
+   	border: 1px solid #000; 
+   	text-align: left;
+   	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+    width: 236px;
+    padding-left: 7px;
+   }#col3 {
+   	border: 1px solid #000; 
+   	text-align: left;
+   	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+   padding-left: 7px;
+   }
+
+   #incol1 {
+	padding-left: 7px;
+   	border: 1px solid #000; 
+   	text-align: left;
+   	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+ 	width: 192px;
+   }
+     #incol2 {
+	padding-left: 7px;
+   	border: 1px solid #000; 
+   	text-align: left;
+   	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+ padding-right: 150px;
+   }
+   .item {
+    text-align: left;
+   	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+    font-size: 10px;
+   }
+
+
+    /*  section6 */  
+.section6 {
+	background-color: #FFF;
+	width: 794px;
+	text-align: left;
+}
+.incol {
+   	
+   	text-align: left;
+   	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+   }
+  #colsec6 {
+  	padding-left: 7px;
+	border:1px  0px 1px 0px solid  #000;
+	text-align: left;
+   }
+.padd {
+		padding-right: 70px;
+}
+.text12 {
+	text-align: left;
+   	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+   	font-size: 10px;
+   	padding: 1px 0;
+   padding-left: 7px;
+   	border:1px solid  #000;
+}
+
+.info2 {
+	display: flex;
+	width: 642px;
+	height: auto;
+	font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+	font-size: 16px;
+	line-height: 1.2;
+	
+}
+.city2{
+	width: 321px;
+	height: auto;
+
+	text-align: left;
+
+}
+.year2{
+	width: 260px;
+	height: auto;
+
+	line-height: 1.5;
+	text-align: right;
+}
+.bottom {
+	width: 794px;
+	height: auto;
+	padding-left: 95px;
+	padding-right: 57px;
+	padding-bottom: 76px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
